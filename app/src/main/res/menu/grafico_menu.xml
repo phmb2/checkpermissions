@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/piechart"
+        android:icon="@mipmap/ic_pie_chart"
+        android:title="@string/title_permission_groups_chart"
+        app:showAsAction="ifRoom"/>
+
+</menu>

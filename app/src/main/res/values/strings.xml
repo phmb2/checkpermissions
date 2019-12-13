@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Check Permissions</string>
+
+    <string name="title_privacy_policies">Políticas de Privacidade</string>
+    <!--PermissãoFragment-->
+    <string name="title_permission_groups">Grupos de Permissões</string>
+    <string name="apps">Apps</string>
+    <string name="title_permission_groups_chart">Gráficos</string>
+    <string name="title_search">Pesquisar...</string>
+
+    <!--AplicativosFragment-->
+    <string name="title_installed_apps">Aplicativos Instalados</string>
+    <string name="title_apps_list">Lista de Aplicativos</string>
+
+    <!--DetalhesAplicativoFragment-->
+    <string name="title_app_details">Detalhes do Aplicativo</string>
+    <string name="no_permissions_required">Sem permissões necessárias</string>
+    <string name="permission_count">Permissões Necessárias: %1$d</string>
+    <string name="open_app">Abrir Aplicativo</string>
+    <string name="settings">Configurações</string>
+
+</resources>
